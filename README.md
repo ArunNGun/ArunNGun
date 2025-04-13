@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Arun</h1>
+<p align="center">
+  🚀 Fullstack Developer | 💻 MERN Expert | 🌐 Kubernetes Enthusiast | 🧠 AI Explorer
+</p>
 
-<!--
-**ArunNGun/ArunNGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,graphql,mongodb,ts,js,html,css,nextjs,express,docker,kubernetes,gcp,git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Currently Working On
+- 🚀 **PodPilot** – Kubernetes Pod UI + GPT Debug Assistant  
+- 📦 Micro frontends for Channel Sales @ **Telus**  
+- 🤖 Experiments in Gen AI + hybrid BFF architectures
+- 🧠 gRPC + REST BFF  
+
+---
+
+### What I do 
+- 👥 Led teams, shared knowledge, mentored peers, Learn from them  
+
+### Top repos
+
+| Name | Description | Tech |
+|------|-------------|------|
+| [**PodsPilot**](https://github.com/ArunNGun/podspilot) | 🚀 K8s UI + GPT Debug Assistant | Next.js, Zustand, K8s |
+| [**BFF POC**](https://github.com/ArunNGun/bff-poc) | gRPC + REST gateway backend | Node.js, TypeScript |
+| [**Gh-metrics**](https://github.com/ArunNGun/git-metrics) |NextJs github metrics for your org/team | NextJS, OctoKit, graphQl|
+
+👉 [View all repositories](https://github.com/ArunNGun?tab=repositories)
+
+---
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/a--k)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:chaudharyarun5797@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/ArunNGun)
+
+---
+
+> ⚡ Fun fact: I debug code like I ride bikes — fast, focused, and fearless 🏍️
