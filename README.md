@@ -6,7 +6,7 @@
 ---
 
 ### 📊 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,graphql,mongodb,ts,js,html,css,nextjs,express,docker,kubernetes,gcp,git)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,graphql,mongodb,ts,js,html,css,express,docker,kubernetes,gcp,git,bash,blender,c,deno,jest,linux,vite)
 
 ---
 
