@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Lead Software Engineer · Full-Stack · AI · Open Source</b><br/>
-  Building things used by 30M+ customers @ <b>Telus Digital</b> · Remote since 2021
+  Building things used by 10M+ customers @ <b>Telus Digital</b> · Remote since 2021
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
-| [**ShadowAI**](https://github.com/ArunNGun/ShadowAI) | Stealth AI interview overlay — invisible to screen share/recordings | Tauri v2, Rust, Whisper |
+| [**ShadowAI**](https://github.com/ArunNGun/ShadowAI) | Stealth AI overlay — invisible to screen share/recordings, get answers without anyone noticing | Tauri v2, Rust, Whisper |
 | [**OpenTeleprompter**](https://github.com/ArunNGun/openTeleprompt) | Voice-activated teleprompter, hides during screen share. Free alternative to PromptSmart Pro | Tauri v2, Rust, JS |
 | [**CodeArena**](https://github.com/ArunNGun/CodeArena) | Daily interview prep playground — Monaco editor, test runner, analytics | React, Vite, Node.js |
 | [**gh-metrics**](https://github.com/ArunNGun/git-metrics) | GitHub PR insights & reviewer analytics for your org/team | Next.js, OctoKit, GraphQL |
@@ -29,9 +29,9 @@
 
 ## 🔨 Currently Building
 
-- 🥷 **ShadowAI** — AI-powered stealth overlay for technical interviews (Tauri + Rust + Whisper)
+- 🥷 **ShadowAI** — AI-powered stealth overlay (Tauri + Rust + Whisper)
 - 📡 **OpenTeleprompter v2** — Tauri/Rust rewrite, voice scroll, screen-share invisible
-- 🏗️ **Micro-frontends** for Channel Sales @ Telus serving 30M+ customers
+- 🏗️ **Micro-frontends** for Telus serving 10M+ customers
 
 ---
 
@@ -59,7 +59,6 @@
 ## ⚡ Highlights
 
 - 🏆 **3rd place** — Telus-wide AI Hackathon
-- ✈️ Flew to **Canada** to work directly with product owners
 - 🎮 Built **DeathDoom** — multiplayer shooter, 460K+ YouTube views, 2nd @ InnoTech 2017
 - 🎓 Founded a **Game Dev Club** in college, taught Unreal Engine 4 to peers
 - 🏅 Multiple **WOW & BRAVO** awards at Telus & Wipro
