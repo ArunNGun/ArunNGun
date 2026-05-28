@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Lead Software Engineer · Full-Stack · AI · Open Source</b><br/>
-  Building things used by 10M+ customers @ <b>Telus Digital</b> · Remote since 2021
+  Building things used by 10M+ customers</b> · Remote since 2021
 </p>
 
 <p align="center">
@@ -58,10 +58,10 @@
 
 ## ⚡ Highlights
 
-- 🏆 **3rd place** — Telus-wide AI Hackathon
+- 🏆 **3rd place** — Company-wide AI Hackathon
 - 🎮 Built **DeathDoom** — multiplayer shooter, 460K+ YouTube views, 2nd @ InnoTech 2017
 - 🎓 Founded a **Game Dev Club** in college, taught Unreal Engine 4 to peers
-- 🏅 Multiple **WOW & BRAVO** awards at Telus & Wipro
+- 🏅 Multiple **WOW, Kuddos, superstar, Luminary & BRAVO** awards
 
 ---
 
