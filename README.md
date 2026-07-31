@@ -17,6 +17,7 @@
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
+| [**Bench**](https://github.com/ArunNGun/Bench) | Private peptide, HGH and anabolic tracker. No account, no server. Everything stays on device. PWA + Android APK | Next.js, TypeScript, Capacitor |
 | [**RAG-Js-Concepts**](https://github.com/ArunNGun/RAG-Js-Concepts) | Full RAG pipeline from scratch — local embeddings, FAISS vector search, grounded LLM answers, honest refusal when context missing | Node.js, FAISS, all-MiniLM-L6-v2 |
 | [**ShadowAI**](https://github.com/ArunNGun/ShadowAI) | Stealth AI overlay — invisible to screen share/recordings, get answers without anyone noticing | Tauri v2, Rust, Whisper |
 | [**OpenTeleprompter**](https://github.com/ArunNGun/openTeleprompt) | Voice-activated teleprompter, hides during screen share. Free alternative to PromptSmart Pro | Tauri v2, Rust, JS |
@@ -30,6 +31,7 @@
 
 ## 🔨 Currently Building
 
+- 💊 **Bench** — Private peptide/HGH/anabolic tracker, no backend, PWA + Android APK
 - 🧠 **RAG-Js-Concepts** — RAG pipeline from scratch (local embeddings + FAISS + LLM grounding)
 - 🥷 **ShadowAI** — AI-powered stealth overlay (Tauri + Rust + Whisper)
 - 📡 **OpenTeleprompter v2** — Tauri/Rust rewrite, voice scroll, screen-share invisible
