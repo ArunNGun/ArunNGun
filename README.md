@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Arun Kumar 👋</h1>
+<h1 align="center">Hey, I'm Arun  👋</h1>
 
 <p align="center">
   <b>Lead Software Engineer · Full-Stack · AI · Open Source</b><br/>
